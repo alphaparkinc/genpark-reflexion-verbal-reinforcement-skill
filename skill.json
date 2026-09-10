@@ -1,0 +1,15 @@
+{
+  "name": "genpark-reflexion-verbal-reinforcement-skill",
+  "version": "1.0.0",
+  "description": "Reflexion metacognitive actor-evaluator agent maintaining verbal reinforcement reflection memory for iterative self-correction across trials.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "reflexion",
+    "self-correction",
+    "metacognition",
+    "verbal-reinforcement"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
